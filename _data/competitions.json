@@ -18,5 +18,18 @@
     //     }
     //   }
     // }
+    "Awwwards": {
+      "Id": "Awwwards",
+      "Tags": ["Web", "Branding", "UX", "Interface", "Mobile"],
+      "Twitter": "@awwwards",
+      "Url": {
+        "Home": "http://www.awwwards.com",
+        "Submission": "https://www.awwwards.com/professional-submission"
+      },
+      "Submission": {
+        "Cost": 75,
+        "Date": null
+      }
+    }
   }
 }
