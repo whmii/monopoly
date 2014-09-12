@@ -1,0 +1,22 @@
+{
+  "Competitions": {
+    // "ThoughtbotAwards": {
+    //   "Id": "Thoughtbot Awards",
+    //   "Tags": ["Design", "Branding", "UX", "Interface"],
+    //   "Twitter": "@thoughtbot",
+    //   "Url": {
+    //     "Home": "http://thoughtbot.com/awards",
+    //     "Submission": "http://thoughtbot.com/awards/submit",
+    //     "Rules": "http://thoughtbot.com/awards/rules",
+    //     "Calendar": "http://thoughtbot.com/calendar"
+    //   },
+    //   "Submission": {
+    //     "Cost": 60,
+    //     "Date": {
+    //       "Open": "MM-DD",
+    //       "Close": "MM-DD"
+    //     }
+    //   }
+    // }
+  }
+}
