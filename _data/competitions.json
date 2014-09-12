@@ -1,0 +1,113 @@
+{
+  "Competitions": {
+    // "Awards": {
+    //   "Id": "Awards",
+    //   "Tags": ["Design", "Branding", "UX", "Interface"],
+    //   "Twitter": "@handle",
+    //   "Url": {
+    //     "Home": "http://",
+    //     "Submission": "http://",
+    //     "Rules": "http://",
+    //     "Calendar": "http://"
+    //   },
+    //   "Submission": {
+    //     "Cost": 60,
+    //     "Date": {
+    //       "Open": "MM-DD",
+    //       "Close": "MM-DD"
+    //     }
+    //   }
+    // },
+    "Awwwards": {
+      "Id": "Awwwards",
+      "Tags": ["Web", "Branding", "UX", "Interface", "Mobile"],
+      "Twitter": "@awwwards",
+      "Url": {
+        "Home": "http://www.awwwards.com",
+        "Submission": "https://www.awwwards.com/professional-submission"
+      },
+      "Submission": {
+        "Cost": 75,
+        "Date": null
+      }
+    },
+    "CommunicationArts": {
+      "Id": "Communication Arts Interactive Competition",
+      "Tags": ["Design", "Interactive", "UX", "Interface"],
+      "Twitter": "@CommArts",
+      "Url": {
+        "Home": "http://commarts.com/competitions/interactive"
+      },
+      "Submission": {
+        "Cost": 125,
+        "Date": {
+          "Open": "09-10",
+          "Close": "10-17"
+        }
+      }
+    },
+    "CSSDesignAwards": {
+      "Id": "CSS Design Awards",
+      "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
+      "Twitter": "@cssdesignawards",
+      "Url": {
+        "Home": "http://www.cssdesignawards.com",
+        "Submission": "http://www.cssdesignawards.com/submit.php"
+      },
+      "Submission": {
+        "Cost": 60,
+        "Date": null
+      }
+    },
+    "FastCo": {
+      "Id": "Fast Co Design: Innovation by Design",
+      "Tags": ["Design","Apps", "Data Visualization", "Experience", "Experimental", "Graphic", "Health", "Products", "Social Good", "Spaces"],
+      "Twitter": "@UXAwards",
+      "Url": {
+        "Home": "http://www.fastcodesign.com/section/innovation-by-design",
+        "Rules": "http://www.fastcodesign.com/1669429/innovation-by-design-awards-official-rules",
+        "Ref": "http://www.fastcodesign.com/section/innovation-by-design-awards-2014"
+      },
+      "Submission": {
+        "Cost": 100,
+        "Date": {
+          "Open": "05-04",
+          "Close": "05-06"
+        }
+      }
+    },
+    "PixelAwards": {
+      "Id": "Pixel Awards",
+      "Tags": ["Agency", "New York", "UX", "Interface"],
+      "Twitter": "@pixelawards",
+      "Url": {
+        "Home": "https://pixelawards.com/",
+        "Submission": "https://pixelawards.com/submission"
+      },
+      "Submission": {
+        "Cost": 249,
+        "Date": {
+          "Open": "08-01",
+          "Close": "11-30"
+        }
+      }
+    },
+    "UserExperienceAwards": {
+      "Id": "User Experience Awards",
+      "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
+      "Twitter": "@UXAwards",
+      "Url": {
+        "Home": "http://userexperienceawards.com/awards",
+        "Submission": "http://userexperienceawards.com/submission",
+        "Rules": "http://userexperienceawards.com/submission"
+      },
+      "Submission": {
+        "Cost": 240,
+        "Date": {
+          "Open": "05-01",
+          "Close": "06-15"
+        }
+      }
+    }
+  }
+}
