@@ -60,6 +60,23 @@
           "Close": "05-06"
         }
       }
+    },
+    "UserExperienceAwards": {
+      "Id": "User Experience Awards",
+      "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
+      "Twitter": "@UXAwards",
+      "Url": {
+        "Home": "http://userexperienceawards.com/awards",
+        "Submission": "http://userexperienceawards.com/submission",
+        "Rules": "http://userexperienceawards.com/submission"
+      },
+      "Submission": {
+        "Cost": 240,
+        "Date": {
+          "Open": "05-01",
+          "Close": "06-15"
+        }
+      }
     }
   }
 }
