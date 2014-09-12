@@ -43,6 +43,23 @@
         "Cost": 60,
         "Date": null
       }
+    },
+    "FastCo": {
+      "Id": "Fast Co Design: Innovation by Design",
+      "Tags": ["Design","Apps", "Data Visualization", "Experience", "Experimental", "Graphic", "Health", "Products", "Social Good", "Spaces"],
+      "Twitter": "@UXAwards",
+      "Url": {
+        "Home": "http://www.fastcodesign.com/section/innovation-by-design",
+        "Rules": "http://www.fastcodesign.com/1669429/innovation-by-design-awards-official-rules",
+        "Ref": "http://www.fastcodesign.com/section/innovation-by-design-awards-2014"
+      },
+      "Submission": {
+        "Cost": 100,
+        "Date": {
+          "Open": "05-04",
+          "Close": "05-06"
+        }
+      }
     }
   }
 }
