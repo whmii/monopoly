@@ -30,6 +30,19 @@
         "Cost": 75,
         "Date": null
       }
+    },
+    "CSSDesignAwards": {
+      "Id": "CSS Design Awards",
+      "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
+      "Twitter": "@cssdesignawards",
+      "Url": {
+        "Home": "http://www.cssdesignawards.com",
+        "Submission": "http://www.cssdesignawards.com/submit.php"
+      },
+      "Submission": {
+        "Cost": 60,
+        "Date": null
+      }
     }
   }
 }
