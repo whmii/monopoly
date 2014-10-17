@@ -31,6 +31,21 @@
         "Date": null
       }
     },
+    "CommunicationArts": {
+      "Id": "Communication Arts Interactive Competition",
+      "Tags": ["Design", "Interactive", "UX", "Interface"],
+      "Twitter": "@CommArts",
+      "Url": {
+        "Home": "http://commarts.com/competitions/interactive"
+      },
+      "Submission": {
+        "Cost": 125,
+        "Date": {
+          "Open": "09-10",
+          "Close": "10-17"
+        }
+      }
+    },
     "CSSDesignAwards": {
       "Id": "CSS Design Awards",
       "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
