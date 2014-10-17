@@ -17,7 +17,7 @@
     //       "Close": "MM-DD"
     //     }
     //   }
-    // }
+    // },
     "Awwwards": {
       "Id": "Awwwards",
       "Tags": ["Web", "Branding", "UX", "Interface", "Mobile"],
@@ -76,6 +76,22 @@
         }
       }
     },
+    "PixelAwards": {
+      "Id": "Pixel Awards",
+      "Tags": ["Agency", "New York", "UX", "Interface"],
+      "Twitter": "@pixelawards",
+      "Url": {
+        "Home": "https://pixelawards.com/",
+        "Submission": "https://pixelawards.com/submission"
+      },
+      "Submission": {
+        "Cost": 249,
+        "Date": {
+          "Open": "08-01",
+          "Close": "11-30"
+        }
+      }
+    }
     "UserExperienceAwards": {
       "Id": "User Experience Awards",
       "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
