@@ -31,6 +31,22 @@
         "Date": null
       }
     },
+    "AIGAJustified": {
+      "Id": "AIGA Justified",
+      "Tags": ["Design", "Branding", "Application", "Product Design", "Interface", "Charity", "Education"],
+      "Twitter": "@AIGAdesign",
+      "Url": {
+        "Home": "http://www.aiga.org/justified/",
+        "Rules": "http://www.aiga.org/justified/#eligibility",
+      },
+      "Submission": {
+        "Cost": 55,
+        "Date": {
+          "Open": "09-11",
+          "Close": "03-00"
+        }
+      }
+    },
     "CommunicationArts": {
       "Id": "Communication Arts Interactive Competition",
       "Tags": ["Design", "Interactive", "UX", "Interface"],
@@ -91,7 +107,7 @@
           "Close": "11-30"
         }
       }
-    }
+    },
     "UserExperienceAwards": {
       "Id": "User Experience Awards",
       "Tags": ["Design", "Branding", "UX", "Interface", "Mobile"],
